@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+    <OXMENU id="navi_rs_company">
+      <MAINMENU id="navi_rs_basic">
+        <SUBMENU id="navi_rs_basic_rsholiday" cl="rs_formedit_fullpage" clparam="project=rs/basic/formeditprojects/rsholiday.cpf" />
+      </MAINMENU>
+    </OXMENU>
+</OX>
