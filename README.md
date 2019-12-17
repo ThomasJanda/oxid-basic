@@ -6,7 +6,7 @@ This basic module is required to use some modules.
 
 "oxid-formedit" module required. 
 
-##Install
+## Install
 
 1. Add following code to to the file "modules/functions.php". If not present, create it and add <? at the beginn of the file.
     
